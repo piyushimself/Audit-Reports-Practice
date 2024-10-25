@@ -3,9 +3,9 @@
 **Listed reports will be either from tutorials or exercises.**
 
 **Theory**
-Type of web3 projects
-ERC protocols
-Famous Projects 
+-Type of web3 projects
+-ERC protocols
+-Famous Projects 
 **Arsenal**
 languages and frameworks
 Solidity, Rust, Cairo
