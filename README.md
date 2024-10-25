@@ -82,3 +82,7 @@
 
 ### **Bug Bounty**
 - Participate in programs like **Immunefi**, **HackenProof**, etc.
+
+## **Read**
+- Hackes
+- Challenges 
