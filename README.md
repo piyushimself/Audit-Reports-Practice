@@ -2,7 +2,7 @@
 
 **Listed reports will be either from tutorials or exercises.**
 
-# This is a way that can be used to approach the web3 Audit. 
+## This is a way that can be used to approach the web3 Audit. 
 
 # **Theory**
 
