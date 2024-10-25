@@ -2,19 +2,19 @@
 
 **Listed reports will be either from tutorials or exercises.**
 
-*Theory*
+**Theory**
 Type of web3 projects
 ERC protocols
 Famous Projects 
-*Arsenal*
+**Arsenal**
 languages and frameworks
 Solidity, Rust, Cairo
 Foundry, 
 EVM, Starknet 
-*Problems*
+**Problems**
 Security issues
 Gas optimization 
-*Exercise*
+**Exercise**
 Shadow Audit
 CTFs
 Practice labs
