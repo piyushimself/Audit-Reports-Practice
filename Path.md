@@ -1,4 +1,4 @@
-# Web3 Auditing Learning Path
+# Web3 Common Auditing Learning Path - ChatGPT
 
 Welcome to my Web3 Auditing Learning Path! This repository is dedicated to my journey to becoming a proficient Web3 security auditor. Below is a structured roadmap with resources, topics, and projects.
 
