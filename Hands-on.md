@@ -4,3 +4,4 @@
 - [SunWeb3Sec exercises - DeFiVulnLabs, DeFiHackLabs, DeFiLabs](https://github.com/SunWeb3Sec)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
+- [Real Hacks](https://rekt.news/)
